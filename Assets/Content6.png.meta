@@ -908,7 +908,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -930,7 +930,7 @@ TextureImporter:
         width: 10
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -957,8 +957,40 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Content6_0: -7756839077482734530
+      Content6_1: 3920885940429210870
+      Content6_10: -2395783209180688026
+      Content6_11: -6542534548705928690
+      Content6_12: -9158888419030270465
+      Content6_13: 259390248664707190
+      Content6_14: -7221697166610727090
+      Content6_15: -3406403015172903745
+      Content6_16: -4983895555033453750
+      Content6_17: -8048210880579565960
+      Content6_18: -5137481660661973554
+      Content6_19: 4628293042181087634
+      Content6_2: -3592196242994999226
       Content6_20: 813534014
+      Content6_21: 2284047045379011509
+      Content6_22: 3065622922245329366
+      Content6_23: 1807691836332941988
+      Content6_24: 2112636775920883438
+      Content6_25: 3010997523834175259
+      Content6_26: -8625503850056298604
+      Content6_27: -8464925447898366996
+      Content6_28: -863604526238108855
+      Content6_29: -220081782811267345
+      Content6_3: 4338524901819360697
+      Content6_30: 7582941829767433566
+      Content6_31: -6735555524837968165
+      Content6_32: -8860820894538283872
       Content6_33: 910250930
+      Content6_4: 4412519801500146272
+      Content6_5: 2656715682603961788
+      Content6_6: 2076831605392109046
+      Content6_7: 1219570905918873651
+      Content6_8: 2892947294952343641
+      Content6_9: -4476500480008560062
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
