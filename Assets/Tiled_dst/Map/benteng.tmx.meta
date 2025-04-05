@@ -9,11 +9,11 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
   importerVersion: 31
-  pixelsPerUnit: 100
+  pixelsPerUnit: 16
   edgesPerEllipse: 32
   numberOfObjectsImported: 124
   tilesAsObjects: 0
-  sortingMode: 0
+  sortingMode: 1
   isIsometric: 1
   customImporterClassName: 
   internalTilesets:
